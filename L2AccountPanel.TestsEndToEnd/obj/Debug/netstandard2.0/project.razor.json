@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "d:\\LosoweProjekty\\L2AccountPanel\\L2AccountPanel.TestsEndToEnd\\L2AccountPanel.TestsEndToEnd.csproj",
+  "TargetFramework": "netstandard2.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

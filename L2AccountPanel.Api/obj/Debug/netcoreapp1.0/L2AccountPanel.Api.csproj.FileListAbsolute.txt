@@ -1,0 +1,11 @@
+d:\MegaSync\L2AccountPanel\L2AccountPanel.Api\bin\Debug\netcoreapp1.0\L2AccountPanel.Api.deps.json
+d:\MegaSync\L2AccountPanel\L2AccountPanel.Api\bin\Debug\netcoreapp1.0\L2AccountPanel.Api.runtimeconfig.json
+d:\MegaSync\L2AccountPanel\L2AccountPanel.Api\bin\Debug\netcoreapp1.0\L2AccountPanel.Api.runtimeconfig.dev.json
+d:\MegaSync\L2AccountPanel\L2AccountPanel.Api\bin\Debug\netcoreapp1.0\L2AccountPanel.Api.dll
+d:\MegaSync\L2AccountPanel\L2AccountPanel.Api\bin\Debug\netcoreapp1.0\L2AccountPanel.Api.pdb
+d:\MegaSync\L2AccountPanel\L2AccountPanel.Api\obj\Debug\netcoreapp1.0\L2AccountPanel.Api.csprojAssemblyReference.cache
+d:\MegaSync\L2AccountPanel\L2AccountPanel.Api\obj\Debug\netcoreapp1.0\L2AccountPanel.Api.csproj.CoreCompileInputs.cache
+d:\MegaSync\L2AccountPanel\L2AccountPanel.Api\obj\Debug\netcoreapp1.0\L2AccountPanel.Api.AssemblyInfoInputs.cache
+d:\MegaSync\L2AccountPanel\L2AccountPanel.Api\obj\Debug\netcoreapp1.0\L2AccountPanel.Api.AssemblyInfo.cs
+d:\MegaSync\L2AccountPanel\L2AccountPanel.Api\obj\Debug\netcoreapp1.0\L2AccountPanel.Api.dll
+d:\MegaSync\L2AccountPanel\L2AccountPanel.Api\obj\Debug\netcoreapp1.0\L2AccountPanel.Api.pdb

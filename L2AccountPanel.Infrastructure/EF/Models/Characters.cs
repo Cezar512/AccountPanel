@@ -1,0 +1,103 @@
+using System;
+using System.Collections.Generic;
+
+namespace L2AccountPanel.Infrastructure.EF.Models
+{
+    public partial class Characters
+    {
+        public string AccountName { get; set; }
+        public decimal ObjId { get; set; }
+        public string CharName { get; set; }
+        public decimal? Level { get; set; }
+        public decimal? MaxHp { get; set; }
+        public decimal? CurHp { get; set; }
+        public decimal? MaxCp { get; set; }
+        public decimal? CurCp { get; set; }
+        public decimal? MaxMp { get; set; }
+        public decimal? CurMp { get; set; }
+        public decimal? Acc { get; set; }
+        public decimal? Crit { get; set; }
+        public decimal? Evasion { get; set; }
+        public decimal? MAtk { get; set; }
+        public decimal? MDef { get; set; }
+        public decimal? MSpd { get; set; }
+        public decimal? PAtk { get; set; }
+        public decimal? PDef { get; set; }
+        public decimal? PSpd { get; set; }
+        public decimal? RunSpd { get; set; }
+        public decimal? WalkSpd { get; set; }
+        public decimal? Str { get; set; }
+        public decimal? Con { get; set; }
+        public decimal? Dex { get; set; }
+        public decimal? Int { get; set; }
+        public decimal? Men { get; set; }
+        public decimal? Wit { get; set; }
+        public decimal? Face { get; set; }
+        public decimal? HairStyle { get; set; }
+        public decimal? HairColor { get; set; }
+        public decimal? Sex { get; set; }
+        public decimal? Heading { get; set; }
+        public decimal? X { get; set; }
+        public decimal? Y { get; set; }
+        public decimal? Z { get; set; }
+        public decimal? MovementMultiplier { get; set; }
+        public decimal? AttackSpeedMultiplier { get; set; }
+        public decimal? ColRad { get; set; }
+        public decimal? ColHeight { get; set; }
+        public decimal? Exp { get; set; }
+        public decimal? ExpBeforeDeath { get; set; }
+        public decimal? Sp { get; set; }
+        public decimal? Karma { get; set; }
+        public decimal? Pvpkills { get; set; }
+        public decimal? Pkkills { get; set; }
+        public decimal? Clanid { get; set; }
+        public decimal? Maxload { get; set; }
+        public decimal? Race { get; set; }
+        public decimal? Classid { get; set; }
+        public int BaseClass { get; set; }
+        public decimal? Deletetime { get; set; }
+        public decimal? Cancraft { get; set; }
+        public string Title { get; set; }
+        public int RecHave { get; set; }
+        public int RecLeft { get; set; }
+        public decimal? Accesslevel { get; set; }
+        public decimal? Online { get; set; }
+        public decimal? Onlinetime { get; set; }
+        public decimal? CharSlot { get; set; }
+        public decimal? Newbie { get; set; }
+        public decimal? LastAccess { get; set; }
+        public int? ClanPrivs { get; set; }
+        public decimal? Wantspeace { get; set; }
+        public decimal Isin7sdungeon { get; set; }
+        public byte PunishLevel { get; set; }
+        public uint PunishTimer { get; set; }
+        public decimal? PowerGrade { get; set; }
+        public decimal Nobless { get; set; }
+        public int Subpledge { get; set; }
+        public decimal LastRecomDate { get; set; }
+        public int LvlJoinedAcademy { get; set; }
+        public int Apprentice { get; set; }
+        public int Sponsor { get; set; }
+        public int VarkaKetraAlly { get; set; }
+        public decimal ClanJoinExpiryTime { get; set; }
+        public decimal ClanCreateExpiryTime { get; set; }
+        public int DeathPenaltyLevel { get; set; }
+        public int? Blockbuff { get; set; }
+        public int Autoloot { get; set; }
+        public int AutolootHerbs { get; set; }
+        public int? Gainexp { get; set; }
+        public int? Titlestatus { get; set; }
+        public int? Pm { get; set; }
+        public int? Trade { get; set; }
+        public int? Screentxt { get; set; }
+        public int? Glow { get; set; }
+        public int? Teleport { get; set; }
+        public int PcPoint { get; set; }
+        public string NameColor { get; set; }
+        public string TitleColor { get; set; }
+        public int? FirstLog { get; set; }
+        public decimal Aio { get; set; }
+        public decimal AioEnd { get; set; }
+        public int? HitmanTarget { get; set; }
+    }
+}

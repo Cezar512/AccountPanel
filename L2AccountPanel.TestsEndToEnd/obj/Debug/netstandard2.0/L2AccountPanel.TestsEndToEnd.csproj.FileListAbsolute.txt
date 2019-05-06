@@ -1,0 +1,9 @@
+d:\MegaSync\L2AccountPanel\L2AccountPanel.TestsEndToEnd\bin\Debug\netstandard2.0\L2AccountPanel.TestsEndToEnd.deps.json
+d:\MegaSync\L2AccountPanel\L2AccountPanel.TestsEndToEnd\bin\Debug\netstandard2.0\L2AccountPanel.TestsEndToEnd.dll
+d:\MegaSync\L2AccountPanel\L2AccountPanel.TestsEndToEnd\bin\Debug\netstandard2.0\L2AccountPanel.TestsEndToEnd.pdb
+d:\MegaSync\L2AccountPanel\L2AccountPanel.TestsEndToEnd\obj\Debug\netstandard2.0\L2AccountPanel.TestsEndToEnd.csprojAssemblyReference.cache
+d:\MegaSync\L2AccountPanel\L2AccountPanel.TestsEndToEnd\obj\Debug\netstandard2.0\L2AccountPanel.TestsEndToEnd.csproj.CoreCompileInputs.cache
+d:\MegaSync\L2AccountPanel\L2AccountPanel.TestsEndToEnd\obj\Debug\netstandard2.0\L2AccountPanel.TestsEndToEnd.AssemblyInfoInputs.cache
+d:\MegaSync\L2AccountPanel\L2AccountPanel.TestsEndToEnd\obj\Debug\netstandard2.0\L2AccountPanel.TestsEndToEnd.AssemblyInfo.cs
+d:\MegaSync\L2AccountPanel\L2AccountPanel.TestsEndToEnd\obj\Debug\netstandard2.0\L2AccountPanel.TestsEndToEnd.dll
+d:\MegaSync\L2AccountPanel\L2AccountPanel.TestsEndToEnd\obj\Debug\netstandard2.0\L2AccountPanel.TestsEndToEnd.pdb

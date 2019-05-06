@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "d:\\MegaSync\\L2AccountPanel\\L2AccountPanel.Api\\L2AccountPanel.Api.csproj",
+  "TargetFramework": "netcoreapp1.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "MVC-1.0",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-1.0"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": ".vscode"
+		},
+		{
+			"path": "L2AccountPanel.Api"
+		},
+		{
+			"path": "L2AccountPanel.Core"
+		},
+		{
+			"path": "L2AccountPanel.Infrastructure"
+		},
+		{
+			"path": "L2AccountPanel.Tests"
+		},
+		{
+			"path": "L2AccountPanel.TestsEndToEnd"
+		}
+	],
+	"settings": {}
+}
