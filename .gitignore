@@ -1,3 +1,8 @@
 .git/
 .vscode/
 L2AccountPanel.Api/bin/
+L2AccountPanel.Core/bin/
+L2AccountPanel.Infrastructure/bin/
+L2AccountPanel.Tests/bin/
+L2AccountPanel.TestsEndToEnd/bin/
+L2AccountPanel.code-workspace
