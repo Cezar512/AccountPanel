@@ -1,5 +1,5 @@
 # AccountPanel
-It's CRUD API for primitive account panel for game purposes 
+It's REST API for primitive account panel for game purposes 
 
 It's being created with rules of Onion architecture and Domain-driven design aproch. At least it is what I'm tring to do. It's my first complex project thats why I decied to pull it here. This project leaning on web tutorials there is a couple of aspects that I may not be completly sure about or even wrong. I'm still learning be aware of that :). Tests will be commied soon.
 
